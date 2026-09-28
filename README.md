@@ -14,7 +14,7 @@
 
 <br />
 
-Hello, my name is Igor. I'm currently studying Git and a few other interesting technologies.
+Hello, my name is Igor Shevchenko. I am a DevOps Engineer and Linux System Administrator with experience in building and supporting cloud environments, automating CI/CD pipelines, and managing scalable infrastructure.
 
 <br />
 
@@ -28,6 +28,6 @@ Hello, my name is Igor. I'm currently studying Git and a few other interesting t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
       
 <!-- TODO-IST:END -->
